@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sajid-da/leetcode/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/sajid-da/leetcode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sajid-da/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sajid-da/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sajid-da/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
