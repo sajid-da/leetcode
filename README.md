@@ -48,4 +48,20 @@
 | [0049-group-anagrams](https://github.com/sajid-da/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sajid-da/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sajid-da/leetcode/tree/master/0242-valid-anagram) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sajid-da/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sajid-da/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sajid-da/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sajid-da/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
