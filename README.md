@@ -24,6 +24,7 @@
 | [0049-group-anagrams](https://github.com/sajid-da/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sajid-da/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sajid-da/leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0049-group-anagrams](https://github.com/sajid-da/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sajid-da/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sajid-da/leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -72,12 +74,27 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sajid-da/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sajid-da/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sajid-da/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
