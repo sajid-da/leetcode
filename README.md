@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sajid-da/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sajid-da/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sajid-da/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [0035-search-insert-position](https://github.com/sajid-da/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sajid-da/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sajid-da/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sajid-da/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sajid-da/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sajid-da/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
