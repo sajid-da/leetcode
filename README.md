@@ -9,6 +9,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sajid-da/leetcode/tree/master/0053-maximum-subarray) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sajid-da/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
@@ -22,6 +23,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sajid-da/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sajid-da/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sajid-da/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sajid-da/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/sajid-da/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sajid-da/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sajid-da/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sajid-da/leetcode/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
