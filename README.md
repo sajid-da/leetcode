@@ -17,6 +17,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sajid-da/leetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/sajid-da/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sajid-da/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sajid-da/leetcode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sajid-da/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
