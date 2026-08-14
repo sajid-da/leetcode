@@ -5,6 +5,6 @@ class Solution:
             for j in range(i+1,arr):
                 if nums[i]+nums[j] == target:
                     return i,j
-                j+=1
+                
                 
     
