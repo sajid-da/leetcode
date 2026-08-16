@@ -31,6 +31,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sajid-da/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajid-da/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sajid-da/leetcode/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/sajid-da/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sajid-da/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sajid-da/leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sajid-da/leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sajid-da/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
